@@ -14,7 +14,7 @@
 ## Install the Pseudocode Library
 1. Download the ZIP folder that has the installation files, and then extract them. You should find five files, which you'll use for the installing my plug-in in Notepad++.
 
-    [Download](https://downgit.github.io/#/home?url=https://github.com/naviat/NPP_Pseudo-Highlight/tree/master/npp-psu-plugin&rootDirectory=false)
+    [Download](https://downgit.evecalm.com/#/home?url=https://github.com/naviat/NPP_Pseudo-Highlight/tree/main/npp-psu-plugin)
     
 2. Launch Notepad++
 3. Click on the **Define your language** option under the **Language** menu. This should bring up a language editor window.
